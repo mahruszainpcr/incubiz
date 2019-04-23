@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/incubiz/static/css/main.584f321a.chunk.css",
+    "main.js": "/incubiz/static/js/main.f13a5b34.chunk.js",
+    "main.js.map": "/incubiz/static/js/main.f13a5b34.chunk.js.map",
+    "runtime~main.js": "/incubiz/static/js/runtime~main.909fb7b0.js",
+    "runtime~main.js.map": "/incubiz/static/js/runtime~main.909fb7b0.js.map",
+    "static/js/2.0b1075f3.chunk.js": "/incubiz/static/js/2.0b1075f3.chunk.js",
+    "static/js/2.0b1075f3.chunk.js.map": "/incubiz/static/js/2.0b1075f3.chunk.js.map",
+    "index.html": "/incubiz/index.html",
+    "precache-manifest.3d4af0f91f60d5512149088c623c2188.js": "/incubiz/precache-manifest.3d4af0f91f60d5512149088c623c2188.js",
+    "service-worker.js": "/incubiz/service-worker.js",
+    "static/css/main.584f321a.chunk.css.map": "/incubiz/static/css/main.584f321a.chunk.css.map"
+  }
+}
