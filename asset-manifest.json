@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/incubiz/static/css/main.56cdbaca.chunk.css",
-    "main.js": "/incubiz/static/js/main.53b7d0b7.chunk.js",
-    "main.js.map": "/incubiz/static/js/main.53b7d0b7.chunk.js.map",
+    "main.js": "/incubiz/static/js/main.06d17a77.chunk.js",
+    "main.js.map": "/incubiz/static/js/main.06d17a77.chunk.js.map",
     "runtime~main.js": "/incubiz/static/js/runtime~main.909fb7b0.js",
     "runtime~main.js.map": "/incubiz/static/js/runtime~main.909fb7b0.js.map",
     "static/js/2.0d8f3303.chunk.js": "/incubiz/static/js/2.0d8f3303.chunk.js",
     "static/js/2.0d8f3303.chunk.js.map": "/incubiz/static/js/2.0d8f3303.chunk.js.map",
     "index.html": "/incubiz/index.html",
-    "precache-manifest.1c21e7407c7060df5d78cbb11468afd3.js": "/incubiz/precache-manifest.1c21e7407c7060df5d78cbb11468afd3.js",
+    "precache-manifest.28f0f100dc87e27d0c51482a3c2021fc.js": "/incubiz/precache-manifest.28f0f100dc87e27d0c51482a3c2021fc.js",
     "service-worker.js": "/incubiz/service-worker.js",
     "static/css/main.56cdbaca.chunk.css.map": "/incubiz/static/css/main.56cdbaca.chunk.css.map"
   }
